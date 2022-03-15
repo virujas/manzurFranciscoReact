@@ -1,10 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
 //Agregando bootstrap
-import NavBar from './NavBar/NavBar';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import NavBar from './NavBar/NavBar';
 
-//NavBar
+
 
 
 function App() {
