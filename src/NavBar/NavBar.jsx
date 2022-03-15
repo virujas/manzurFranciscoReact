@@ -1,4 +1,4 @@
-import {Container, Nav, Navbar, NavDropdown} from 'react-bootstrap'
+import {Container, Nav, Navbar, NavDropdown, Form, FormControl, Button} from 'react-bootstrap'
 
 function NavBar(){
     return(
@@ -41,3 +41,5 @@ function NavBar(){
         
     )
 }
+
+export default NavBar

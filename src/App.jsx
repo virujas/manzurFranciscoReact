@@ -1,9 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
 //Agregando bootstrap
+import NavBar from './NavBar/NavBar';
 import 'bootstrap/dist/css/bootstrap.min.css';
+
 //NavBar
-import NavBar from './NavBar/NavBar'
+
 
 function App() {
   return (
@@ -28,3 +30,4 @@ function App() {
 }
 
 export default App;
+
